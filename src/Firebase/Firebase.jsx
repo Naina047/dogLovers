@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC-3XFcKKY_gsy11k6aQhaiJWQ7V6EUZOM",
+  //apiKey: "AIzaSyC-...",
   authDomain: "doglovers-ba6e3.firebaseapp.com",
   projectId: "doglovers-ba6e3",
   storageBucket: "doglovers-ba6e3.appspot.com",
